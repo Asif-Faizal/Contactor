@@ -3,7 +3,7 @@
 **Contactor** is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. It provides a seamless and efficient way to retrieve names and phone numbers, making it ideal for apps that require quick access to a user's contact list.
 
 ### Features:
-- 🚀 **Fastest contact fetching** on both Android and iOS platforms.
+- 🚀 **Fastest contact fetching** on both Android and iOS platforms within 100ms.
 - 🔒 Handles runtime permissions smoothly with minimal code.
 - 📱 Retrieves contacts with names and phone numbers.
 - 🛠 Simple and easy-to-use API integration.
